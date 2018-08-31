@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>images/cut.png</file>
+        <file>images/editor_document_file_add_new_text-512.png</file>
+        <file>images/open.png</file>
+        <file>images/Save-as-icon.png</file>
+        <file>images/Save-icon.png</file>
+        <file>images/document-35941_960_720.png</file>
+        <file>images/editor_clipboard_list_task_complete_finish-512.png</file>
+        <file>images/redo_arrow_edit_right_rotate-512.png</file>
+        <file>images/undo.png</file>
+        <file>images/info.png</file>
+    </qresource>
+</RCC>
